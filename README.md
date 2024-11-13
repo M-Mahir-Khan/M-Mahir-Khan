@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mahir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<a href=#><img src="header_.png"></a>
 <a href=#><img src="contributions.svg"></a>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
