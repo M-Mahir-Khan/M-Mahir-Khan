@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mahir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <!--   my-header-img -->
 
 <a href=#><img src="header_.png"></a>
